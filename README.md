@@ -5,3 +5,9 @@ I'm incredibly grateful to Devsuperior for offering this amazing free course wit
 
 One thing that I particularly appreciate is the teacher's enthusiasm in teaching all aspects of Spring Boot. With over twenty years of experience as a developer, he deeply appreciates the convenience that Spring Boot provides. This enthusiasm and friendliness make it almost effortless to comprehend complex concepts.
 
+# Technologies used in this project
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
